@@ -1,5 +1,5 @@
 alias acr="az acr login --name $NP_REGISTRY"
-alias azl="az login"
+alias azl="az login --use-device-code"
 
 # ----------------------
 # Git Aliases
